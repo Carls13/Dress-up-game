@@ -65,7 +65,7 @@ table {
     left:100px;
     right: 100px;
     background-color: rebeccapurple;
-    background-image: url("../img/resized_background.png");
+    background-image: url("./resized_background.png");
     
     
     
@@ -87,7 +87,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url("../img/hairback.png");
+    background-image: url("./hairback.png");
     
 }
 #man{
@@ -96,7 +96,7 @@ table {
     height:987px;
     
     
-    background-image: url("../img/body.png");
+    background-image: url("./body.png");
     
     
     
@@ -117,7 +117,7 @@ table {
      position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/shoe1.png);
+    background-image: url(./shoe1.png);
     
     
     
@@ -128,7 +128,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/shoe2.png);
+    background-image: url(./shoe2.png);
     
 }
 
@@ -136,7 +136,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/shoe3.png);
+    background-image: url(./shoe3.png);
 }
 
 #clothes{
@@ -155,7 +155,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/dress1.png);
+    background-image: url(./dress1.png);
 }
 
 .dress2{
@@ -163,7 +163,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/dress2.png);
+    background-image: url(./dress2.png);
 }
 
 .dress3{
@@ -171,7 +171,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/dress3.png);
+    background-image: url(./dress3.png);
 }
 
 
@@ -191,7 +191,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/hairfront1.png);
+    background-image: url(./hairfront1.png);
 }
 
 .hairfront2{
@@ -199,7 +199,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/hairfront2.png);
+    background-image: url(./hairfront2.png);
 }
 
 .hairfront3{
@@ -207,7 +207,7 @@ table {
     position:absolute;
     width:555px;
     height:987px;
-    background-image: url(../img/hairfront3.png);
+    background-image: url(./hairfront3.png);
 }
 
 #nexthair{
